@@ -73,7 +73,16 @@ const defaultGraphicsSettings = {
 
 	casEnabled: false,
 	casContrast: 0.0,
-	casSharpening: 1.0
+	casSharpening: 1.0,
+
+	/**
+	 * SeROja: "Extras" section on the Basic tab.
+	 */
+	floatingExpNumbers: true,
+	alwaysShowMonsterHp: true,
+	showSightRange: true,
+	showAttackRange: true,
+	showDonorBadge: false
 };
 
 /**
